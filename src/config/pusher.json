@@ -1,0 +1,17 @@
+/*
+{
+    "app_id" : "533775",
+    "key" : "139ad463b689c1f448b3",
+    "secret" : "2eca0fcb818abd0d49a8",
+    "cluster" : "ap2",
+    "encrypted" : true
+}*/
+{
+  "development": {
+    "appId":"413355",
+    "key":"bbb8d5ec3e57a076a4d2",
+    "secret":"7fba6661546152cf88f5",
+    "cluster":"ap1",
+    "encrypted":true,
+  }
+}
